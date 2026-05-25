@@ -1,0 +1,5 @@
+![plot](./jpg/pg-1.jpg)
+![plot](./jpg/pg-2.jpg)
+![plot](./jpg/pg-3.jpg)
+![plot](./jpg/pg-4.jpg)
+![plot](./jpg/pg-5.jpg)
